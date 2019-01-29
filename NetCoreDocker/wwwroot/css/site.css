@@ -33,3 +33,18 @@
         display: none;
     }
 }
+
+.bootstrapBannerText {
+    color: #743FC0;
+    padding-left: 170px !important;
+}
+
+.dockerBannerText {
+    color: #1A71B2;
+    padding-left: 200px;
+    padding-top: 40px;
+}
+
+.imgCarrousel {
+    height: 360px !important;
+}
